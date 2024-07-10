@@ -23,4 +23,4 @@ https://discord.com/oauth2/authorize?client_id=1164590756934189107
 
 
 ## [©️] LICENSE
-- https://github.com/EmptineX/.github/profile/tree/main/LICENSE.cl2
+- https://github.com/EmptineX/.github/blob/main/profile/LICENSE.cl2
