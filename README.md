@@ -5,11 +5,11 @@
 
 ## [📥] Installation
 ```
-https://discord.com/oauth2/authorize?client_id=1164590756934189107
+https://discord.com/oauth2/authorize?client_id=1164590756934189107&permissions=1722925262567489&integration_type=0&scope=bot
 ```
 - OR
 
-- https://discord.com/oauth2/authorize?client_id=1164590756934189107
+- https://discord.com/oauth2/authorize?client_id=1164590756934189107&permissions=1722925262567489&integration_type=0&scope=bot
 
 > Doing any of these links will allow  you to install X.AI
 
