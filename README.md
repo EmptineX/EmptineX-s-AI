@@ -19,8 +19,5 @@ https://discord.com/oauth2/authorize?client_id=1164590756934189107&permissions=1
 - This bot can generate images using OpenAI's AI engine
 - This bot is very good because it is creative and loves to discover new API's
 - Friendly bot
-
-
-
-## [©️] LICENSE
-- https://github.com/EmptineX/.github/blob/main/profile/LICENSE.cl2
+- Experimental terminal system
+- Use simple api keys.
